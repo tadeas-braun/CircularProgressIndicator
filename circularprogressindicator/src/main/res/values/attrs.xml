@@ -32,6 +32,8 @@
 
         <attr name="fillBackground" format="boolean" />
 
+        <attr name="fontResId" format="reference" />
+
     </declare-styleable>
 
 </resources>
